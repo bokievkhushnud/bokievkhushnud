@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm an enthusiastic Full Stack JavaScript Develope
 ## About Me
 
 - 🌱 I’m currently working on various innovative JavaScript projects, enjoying the flexibility and challenges of remote work.
-- 👯 I’m looking to collaborate on projects related to Machine Learning and AI.
+- 👯 I’m looking to collaborate on projects related to Machine Learning and AI or Software Engineering (WEB).
 - 🤔 I’m seeking resources and collaboration in the field of advanced AI algorithms.
-- 💬 Feel free to ask me about Full Stack development, JavaScript, or anything tech-related.
+- 💬 Feel free to ask me about anything.
 - 📫 How to reach me: [Email](mailto:bokiev.khushnud@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid tech enthusiast who loves to stay updated with the latest trends and participate in hackathons!
