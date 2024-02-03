@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm an enthusiastic Full Stack JavaScript Develope
 - 🤔 I’m seeking resources and collaboration in the field of advanced AI algorithms.
 - 💬 Feel free to ask me about anything.
 - 📫 How to reach me: [Email](mailto:bokiev.khushnud@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid tech enthusiast who loves to stay updated with the latest trends and participate in coding contests!
 
 ## Connect with Me
